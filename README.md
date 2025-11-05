@@ -1,6 +1,8 @@
 # Global Pulse Dashboard
 
 A full-stack web application that displays information about countries, their current weather, and recent news headlines. Built with Next.js, TypeScript, and Tailwind CSS.
+<img width="1741" height="979" alt="image" src="https://github.com/user-attachments/assets/b44b8fd9-0df3-4676-a09d-1a473a493260" />
+
 
 ## Features
 
